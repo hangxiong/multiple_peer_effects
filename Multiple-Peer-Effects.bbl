@@ -1,0 +1,923 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{31}
+% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
+\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
+\ifx \binits  \undefined \def \binits#1{#1}\fi
+\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
+\ifx \batitle  \undefined \def \batitle#1{#1}\fi
+\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
+\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
+\ifx \byear  \undefined \def \byear#1{#1}\fi
+\ifx \bissue  \undefined \def \bissue#1{#1}\fi
+\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
+\ifx \blpage  \undefined \def \blpage #1{#1}\fi
+\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
+\ifx \doiurl  \undefined \def \doiurl#1{\textsf{#1}}\fi
+\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
+\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
+\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
+\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
+\ifx \beditor  \undefined \def \beditor#1{#1}\fi
+\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
+\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
+\ifx \bedition  \undefined \def \bedition#1{#1}\fi
+\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
+\ifx \blocation  \undefined \def \blocation#1{#1}\fi
+\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
+\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
+\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
+\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
+\ifx \barticle \undefined \def \barticle#1{#1}\fi
+\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
+\ifx \botherref \undefined \def \botherref #1{#1}\fi
+\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
+\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
+\ifx \bbook \undefined \def \bbook#1{#1}\fi
+\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
+\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
+\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
+\ifx \endbibitem  \undefined \def \endbibitem {}\fi
+\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
+\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
+\csname PreBibitemsHook\endcsname
+
+%%% 1
+\bibitem{Rogers2003}
+\begin{bbook}
+\bauthor{\bsnm{Rogers}, \binits{E.M.}}:
+\bbtitle{Diffusion of Innovations},
+\bedition{5th} edn.
+\bpublisher{Free Press}, \blocation{???}
+(\byear{2003})
+\end{bbook}
+\endbibitem
+
+%%% 2
+\bibitem{Goolsbee1999}
+\begin{botherref}
+\oauthor{\bsnm{Goolsbee}, \binits{A.}},
+\oauthor{\bsnm{Klenow}, \binits{P.J.}}:
+Evidence on learning and network externalities in the diffusion of home
+  computers.
+Technical report,
+National bureau of economic research
+(1999)
+\end{botherref}
+\endbibitem
+
+%%% 3
+\bibitem{Sorensen2006}
+\begin{botherref}
+\oauthor{\bsnm{Sorensen}, \binits{A.T.}}:
+Social learning and health plan choice.
+RAND Journal of Economics,
+929--945
+(2006)
+\end{botherref}
+\endbibitem
+
+%%% 4
+\bibitem{Kremer2008}
+\begin{barticle}
+\bauthor{\bsnm{Kremer}, \binits{M.}},
+\bauthor{\bsnm{Levy}, \binits{D.}}:
+\batitle{Peer effects and alcohol use among college students}.
+\bjtitle{The Journal of Economic Perspectives}
+\bvolume{22}(\bissue{3}),
+\bfpage{189}--\blpage{189}
+(\byear{2008})
+\end{barticle}
+\endbibitem
+
+%%% 5
+\bibitem{Luan2009}
+\begin{botherref}
+\oauthor{\bsnm{Luan}, \binits{Y.J.}},
+\oauthor{\bsnm{Neslin}, \binits{S.}}:
+The development and impact of consumer word of mouth in new product diffusion.
+Tuck School of Business Working Paper
+(2009-65)
+(2009)
+\end{botherref}
+\endbibitem
+
+%%% 6
+\bibitem{Munshi2004}
+\begin{barticle}
+\bauthor{\bsnm{Munshi}, \binits{K.}}:
+\batitle{Social learning in a heterogeneous population: technology diffusion in
+  the indian green revolution}.
+\bjtitle{Journal of Development Economics}
+\bvolume{73}(\bissue{1}),
+\bfpage{185}--\blpage{213}
+(\byear{2004})
+\end{barticle}
+\endbibitem
+
+%%% 7
+\bibitem{Bandiera2006}
+\begin{barticle}
+\bauthor{\bsnm{Bandiera}, \binits{O.}},
+\bauthor{\bsnm{Rasul}, \binits{I.}}:
+\batitle{Social networks and technology adoption in northern {M}ozambique}.
+\bjtitle{The Economic Journal}
+\bvolume{116}(\bissue{514}),
+\bfpage{869}--\blpage{902}
+(\byear{2006})
+\end{barticle}
+\endbibitem
+
+%%% 8
+\bibitem{Conley2010}
+\begin{botherref}
+\oauthor{\bsnm{Conley}, \binits{T.G.}},
+\oauthor{\bsnm{Udry}, \binits{C.R.}}:
+Learning about a new technology: Pineapple in ghana.
+The American Economic Review,
+35--69
+(2010)
+\end{botherref}
+\endbibitem
+
+%%% 9
+\bibitem{Banerjee2013}
+\begin{botherref}
+\oauthor{\bsnm{Banerjee}, \binits{A.}},
+\oauthor{\bsnm{Chandrasekhar}, \binits{A.G.}},
+\oauthor{\bsnm{Duflo}, \binits{E.}},
+\oauthor{\bsnm{Jackson}, \binits{M.O.}}:
+The diffusion of microfinance.
+Science
+\textbf{341}(6144)
+(2013)
+\end{botherref}
+\endbibitem
+
+%%% 10
+\bibitem{Dahl2014}
+\begin{barticle}
+\bauthor{\bsnm{Dahl}, \binits{G.B.}},
+\bauthor{\bsnm{L縦en}, \binits{K.V.}},
+\bauthor{\bsnm{Mogstad}, \binits{M.}}:
+\batitle{Peer effects in program participation}.
+\bjtitle{American Economic Review}
+\bvolume{104}(\bissue{7}),
+\bfpage{2049}--\blpage{74}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 11
+\bibitem{Xiong2016}
+\begin{barticle}
+\bauthor{\bsnm{Xiong}, \binits{H.}},
+\bauthor{\bsnm{Paynea}, \binits{D.}},
+\bauthor{\bsnm{Kinsellac}, \binits{S.}}:
+\batitle{Peer effects in the diffusion of innovations: Theory and simulation}.
+\bjtitle{Journal of Behavioral and Experimental Economics}
+\bvolume{63},
+\bfpage{1}--\blpage{1713}
+(\byear{2016})
+\end{barticle}
+\endbibitem
+
+%%% 12
+\bibitem{Carrell2013}
+\begin{barticle}
+\bauthor{\bsnm{Carrell}, \binits{S.E.}},
+\bauthor{\bsnm{Sacerdote}, \binits{B.I.}},
+\bauthor{\bsnm{West}, \binits{J.E.}}:
+\batitle{From natural variation to optimal policy? the lucas critique meets
+  peer effects}.
+\bjtitle{Econometrica}
+\bvolume{81}(\bissue{3}),
+\bfpage{855}--\blpage{882}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 13
+\bibitem{Alcalde2013}
+\begin{botherref}
+\oauthor{\bsnm{Alcalde}, \binits{P.}}:
+A behavioral model of non-linear peer effects in cognitive achievement.
+PhD thesis,
+University of Pennsylvania
+(2013).
+\url{http://repository.upenn.edu/dissertations/AAI3565014}
+\end{botherref}
+\endbibitem
+
+%%% 14
+\bibitem{Kiesling2012}
+\begin{barticle}
+\bauthor{\bsnm{Kiesling}, \binits{E.}},
+\bauthor{\bsnm{G{\"u}nther}, \binits{M.}},
+\bauthor{\bsnm{Stummer}, \binits{C.}},
+\bauthor{\bsnm{Wakolbinger}, \binits{L.M.}}:
+\batitle{Agent-based simulation of innovation diffusion: a review}.
+\bjtitle{Central European Journal of Operations Research}
+\bvolume{20}(\bissue{2}),
+\bfpage{183}--\blpage{230}
+(\byear{2012})
+\end{barticle}
+\endbibitem
+
+%%% 15
+\bibitem{Goldenberg2001}
+\begin{barticle}
+\bauthor{\bsnm{Goldenberg}, \binits{J.}},
+\bauthor{\bsnm{Libai}, \binits{B.}},
+\bauthor{\bsnm{Muller}, \binits{E.}}:
+\batitle{Talk of the network: A complex systems look at the underlying process
+  of word-of-mouth}.
+\bjtitle{Marketing Letters}
+\bvolume{12}(\bissue{3}),
+\bfpage{211}--\blpage{223}
+(\byear{2001})
+\end{barticle}
+\endbibitem
+
+%%% 16
+\bibitem{Deffuant2005}
+\begin{barticle}
+\bauthor{\bsnm{Deffuant}, \binits{G.}},
+\bauthor{\bsnm{Huet}, \binits{S.}},
+\bauthor{\bsnm{Amblard}, \binits{F.}}:
+\batitle{An individual-based model of innovation diffusion mixing social value
+  and individual benefit}.
+\bjtitle{American Journal of Sociology}
+\bvolume{110}(\bissue{4}),
+\bfpage{1041}--\blpage{1069}
+(\byear{2005})
+\end{barticle}
+\endbibitem
+
+%%% 17
+\bibitem{Arenas2014}
+\begin{barticle}
+\bauthor{\bsnm{Arenas}, \binits{A.}},
+\bauthor{\bsnm{BarthelemyY}, \binits{M.}},
+\bauthor{\bsnm{Gleeson}, \binits{J.P.}},
+\bauthor{\bsnm{Moreno}, \binits{Y.}},
+\bauthor{\bsnm{Porter}, \binits{M.A.}}:
+\batitle{Multilayer networks}.
+\bjtitle{Journal of Complex Networks}
+\bvolume{2},
+\bfpage{203}--\blpage{271}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 18
+\bibitem{Bramoulle2009}
+\begin{barticle}
+\bauthor{\bsnm{Bramoulle}, \binits{Y.}},
+\bauthor{\bsnm{Djebbari}, \binits{H.}},
+\bauthor{\bsnm{Fortin}, \binits{B.}}:
+\batitle{Identification of peer effects through social networks}.
+\bjtitle{Journal of econometrics}
+\bvolume{150}(\bissue{1}),
+\bfpage{41}--\blpage{55}
+(\byear{2009})
+\end{barticle}
+\endbibitem
+
+%%% 19
+\bibitem{Goldsmith-Pinkham2013}
+\begin{barticle}
+\bauthor{\bsnm{Goldsmith-Pinkham}, \binits{P.}},
+\bauthor{\bsnm{Imbens}, \binits{G.W.}}:
+\batitle{Social networks and the identification of peer effects}.
+\bjtitle{Journal of Business \& Economic Statistics}
+\bvolume{31}(\bissue{3}),
+\bfpage{253}--\blpage{264}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 20
+\bibitem{Guryan2008}
+\begin{barticle}
+\bauthor{\bsnm{Guryan}, \binits{J.}},
+\bauthor{\bsnm{Jacob}, \binits{B.}},
+\bauthor{\bsnm{Klopfer}, \binits{E.}},
+\bauthor{\bsnm{Groff}, \binits{J.}}:
+\batitle{Using technology to explore social networks and mechanisms underlying
+  peer effects in classrooms.}
+\bjtitle{Developmental Psychology}
+\bvolume{44}(\bissue{2}),
+\bfpage{355}
+(\byear{2008})
+\end{barticle}
+\endbibitem
+
+%%% 21
+\bibitem{Xiong2017}
+\begin{barticle}
+\bauthor{\bsnm{Xiong}, \binits{H.}},
+\bauthor{\bsnm{Payne}, \binits{D.}}:
+\batitle{Characteristics of {C}hinese rural network: Evidence from villages in
+  central {C}hina}.
+\bjtitle{Chinese Journal of Sociology}
+\bvolume{1}(\bissue{1}),
+\bfpage{74}--\blpage{1797}
+(\byear{2017})
+\end{barticle}
+\endbibitem
+
+%%% 22
+\bibitem{Watts1998}
+\begin{barticle}
+\bauthor{\bsnm{Watts}, \binits{D.J.}},
+\bauthor{\bsnm{Strogatz}, \binits{S.H.}}:
+\batitle{Collective dynamics of 詓mall-world課etworks}.
+\bjtitle{Nature}
+\bvolume{393}(\bissue{6684}),
+\bfpage{440}--\blpage{442}
+(\byear{1998})
+\end{barticle}
+\endbibitem
+
+%%% 23
+\bibitem{ErdHos1959}
+\begin{barticle}
+\bauthor{\bsnm{Erd{\H o}s}, \binits{P.}},
+\bauthor{\bsnm{R{\'e}nyi}, \binits{A.}}:
+\batitle{On random graphs}.
+\bjtitle{Publicationes Mathematicae (Debrecen)}
+\bvolume{6},
+\bfpage{290}--\blpage{297}
+(\byear{1959})
+\end{barticle}
+\endbibitem
+
+%%% 24
+\bibitem{Peres2014}
+\begin{barticle}
+\bauthor{\bsnm{Peres}, \binits{R.}}:
+\batitle{The impact of network characteristics on the diffusion of
+  innovations}.
+\bjtitle{Physica A: Statistical Mechanics and its Applications}
+\bvolume{402}(\bissue{0}),
+\bfpage{330}--\blpage{343}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 25
+\bibitem{Granovetter1978}
+\begin{barticle}
+\bauthor{\bsnm{Granovetter}, \binits{M.}}:
+\batitle{Threshold models of collective behavior}.
+\bjtitle{American Journal of Sociology}
+\bvolume{83}(\bissue{6}),
+\bfpage{1420}
+(\byear{1978})
+\end{barticle}
+\endbibitem
+
+%%% 26
+\bibitem{Singh2013}
+\begin{botherref}
+\oauthor{\bsnm{Singh}, \binits{P.}},
+\oauthor{\bsnm{Sreenivasan}, \binits{S.}},
+\oauthor{\bsnm{Szymanski}, \binits{B.K.}},
+\oauthor{\bsnm{Korniss}, \binits{G.}}:
+Threshold-limited spreading in social networks with multiple initiators.
+Science Report
+\textbf{3}
+(2013)
+\end{botherref}
+\endbibitem
+
+%%% 27
+\bibitem{Heard2014}
+\begin{barticle}
+\bauthor{\bsnm{Heard}, \binits{D.}},
+\bauthor{\bsnm{Bobashev}, \binits{G.V.}},
+\bauthor{\bsnm{Morris}, \binits{R.J.}}:
+\batitle{Reducing the complexity of an agent-based local heroin market model}.
+\bjtitle{PloS one}
+\bvolume{9}(\bissue{7}),
+\bfpage{102263}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 28
+\bibitem{Wellek2010}
+\begin{bbook}
+\bauthor{\bsnm{Wellek}, \binits{S.}}:
+\bbtitle{Testing Statistical Hypotheses of Equivalence and Noninferiority},
+\bedition{2nd} edn.
+\bpublisher{CRC Press}, \blocation{???}
+(\byear{2010})
+\end{bbook}
+\endbibitem
+
+%%% 29
+\bibitem{Bursztyn2014}
+\begin{barticle}
+\bauthor{\bsnm{Bursztyn}, \binits{L.}},
+\bauthor{\bsnm{Ederer}, \binits{F.}},
+\bauthor{\bsnm{Ferman}, \binits{B.}},
+\bauthor{\bsnm{Yuchtman}, \binits{N.}}:
+\batitle{Understanding mechanisms underlying peer effects: Evidence from a
+  field experiment on financial decisions}.
+\bjtitle{Econometrica}
+\bvolume{82}(\bissue{4}),
+\bfpage{1273}--\blpage{1301}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 30
+\bibitem{Janssen2003}
+\begin{barticle}
+\bauthor{\bsnm{Janssen}, \binits{M.A.}},
+\bauthor{\bsnm{Jager}, \binits{W.}}:
+\batitle{Simulating market dynamics: Interactions between consumer psychology
+  and social networks}.
+\bjtitle{Artificial Life}
+\bvolume{9}(\bissue{4}),
+\bfpage{343}--\blpage{356}
+(\byear{2003})
+\end{barticle}
+\endbibitem
+
+%%% 31
+\bibitem{Laciana2013}
+\begin{barticle}
+\bauthor{\bsnm{Laciana}, \binits{C.E.}},
+\bauthor{\bsnm{Rovere}, \binits{S.L.}},
+\bauthor{\bsnm{Podest噠, \binits{G.P.}}:
+\batitle{Exploring associations between micro-level models of innovation
+  diffusion and emerging macro-level adoption patterns}.
+\bjtitle{Physica A: Statistical Mechanics and its Applications}
+\bvolume{392}(\bissue{8}),
+\bfpage{1873}--\blpage{1884}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+\end{thebibliography}
+
+\newcommand{\BMCxmlcomment}[1]{}
+
+\BMCxmlcomment{
+
+<refgrp>
+
+<bibl id="B1">
+  <title><p>Diffusion of Innovations</p></title>
+  <aug>
+    <au><snm>Rogers</snm><fnm>EM</fnm></au>
+  </aug>
+  <publisher>Free Press</publisher>
+  <editor>Rogers, Everett M</editor>
+  <edition>5</edition>
+  <pubdate>2003</pubdate>
+</bibl>
+
+<bibl id="B2">
+  <title><p>Evidence on learning and network externalities in the diffusion of
+  home computers</p></title>
+  <aug>
+    <au><snm>Goolsbee</snm><fnm>A</fnm></au>
+    <au><snm>Klenow</snm><fnm>PJ</fnm></au>
+  </aug>
+  <pubdate>1999</pubdate>
+</bibl>
+
+<bibl id="B3">
+  <title><p>Social Learning and Health Plan Choice</p></title>
+  <aug>
+    <au><snm>Sorensen</snm><fnm>AT</fnm></au>
+  </aug>
+  <source>RAND Journal of Economics</source>
+  <publisher>JSTOR</publisher>
+  <pubdate>2006</pubdate>
+  <fpage>929</fpage>
+  <lpage>-945</lpage>
+</bibl>
+
+<bibl id="B4">
+  <title><p>Peer Effects and Alcohol Use among College Students</p></title>
+  <aug>
+    <au><snm>Kremer</snm><fnm>M</fnm></au>
+    <au><snm>Levy</snm><fnm>D</fnm></au>
+  </aug>
+  <source>The Journal of Economic Perspectives</source>
+  <publisher>American Economic Association</publisher>
+  <pubdate>2008</pubdate>
+  <volume>22</volume>
+  <issue>3</issue>
+  <fpage>189</fpage>
+  <lpage>-189</lpage>
+</bibl>
+
+<bibl id="B5">
+  <title><p>The Development and Impact of Consumer Word of Mouth in New Product
+  Diffusion</p></title>
+  <aug>
+    <au><snm>Luan</snm><fnm>YJ</fnm></au>
+    <au><snm>Neslin</snm><fnm>S</fnm></au>
+  </aug>
+  <source>Tuck School of Business Working Paper</source>
+  <pubdate>2009</pubdate>
+  <issue>2009-65</issue>
+</bibl>
+
+<bibl id="B6">
+  <title><p>Social learning in a heterogeneous population: technology diffusion
+  in the Indian Green Revolution</p></title>
+  <aug>
+    <au><snm>Munshi</snm><fnm>K</fnm></au>
+  </aug>
+  <source>Journal of Development Economics</source>
+  <publisher>Elsevier</publisher>
+  <pubdate>2004</pubdate>
+  <volume>73</volume>
+  <issue>1</issue>
+  <fpage>185</fpage>
+  <lpage>-213</lpage>
+</bibl>
+
+<bibl id="B7">
+  <title><p>Social networks and technology adoption in northern
+  {M}ozambique</p></title>
+  <aug>
+    <au><snm>Bandiera</snm><fnm>O</fnm></au>
+    <au><snm>Rasul</snm><fnm>I</fnm></au>
+  </aug>
+  <source>The Economic Journal</source>
+  <publisher>Wiley Online Library</publisher>
+  <pubdate>2006</pubdate>
+  <volume>116</volume>
+  <issue>514</issue>
+  <fpage>869</fpage>
+  <lpage>-902</lpage>
+</bibl>
+
+<bibl id="B8">
+  <title><p>Learning about a new technology: Pineapple in Ghana</p></title>
+  <aug>
+    <au><snm>Conley</snm><fnm>TG</fnm></au>
+    <au><snm>Udry</snm><fnm>CR</fnm></au>
+  </aug>
+  <source>The American Economic Review</source>
+  <publisher>JSTOR</publisher>
+  <pubdate>2010</pubdate>
+  <fpage>35</fpage>
+  <lpage>-69</lpage>
+</bibl>
+
+<bibl id="B9">
+  <title><p>The Diffusion of Microfinance</p></title>
+  <aug>
+    <au><snm>Banerjee</snm><fnm>A</fnm></au>
+    <au><snm>Chandrasekhar</snm><fnm>AG</fnm></au>
+    <au><snm>Duflo</snm><fnm>E</fnm></au>
+    <au><snm>Jackson</snm><fnm>MO</fnm></au>
+  </aug>
+  <source>Science</source>
+  <publisher>American Association for the Advancement of Science</publisher>
+  <pubdate>2013</pubdate>
+  <volume>341</volume>
+  <issue>6144</issue>
+</bibl>
+
+<bibl id="B10">
+  <title><p>Peer Effects in Program Participation</p></title>
+  <aug>
+    <au><snm>Dahl</snm><fnm>GB</fnm></au>
+    <au><snm>L縦en</snm><fnm>KV</fnm></au>
+    <au><snm>Mogstad</snm><fnm>M</fnm></au>
+  </aug>
+  <source>American Economic Review</source>
+  <pubdate>2014</pubdate>
+  <volume>104</volume>
+  <issue>7</issue>
+  <fpage>2049</fpage>
+  <lpage>74</lpage>
+</bibl>
+
+<bibl id="B11">
+  <title><p>Peer effects in the diffusion of innovations: Theory and
+  simulation</p></title>
+  <aug>
+    <au><snm>Xiong</snm><fnm>H</fnm></au>
+    <au><snm>Paynea</snm><fnm>D</fnm></au>
+    <au><snm>Kinsellac</snm><fnm>S</fnm></au>
+  </aug>
+  <source>Journal of Behavioral and Experimental Economics</source>
+  <pubdate>2016</pubdate>
+  <volume>63</volume>
+  <fpage>1�13</fpage>
+</bibl>
+
+<bibl id="B12">
+  <title><p>From Natural Variation to Optimal Policy? The Lucas Critique Meets
+  Peer Effects</p></title>
+  <aug>
+    <au><snm>Carrell</snm><fnm>SE</fnm></au>
+    <au><snm>Sacerdote</snm><fnm>BI</fnm></au>
+    <au><snm>West</snm><fnm>JE</fnm></au>
+  </aug>
+  <source>Econometrica</source>
+  <pubdate>2013</pubdate>
+  <volume>81</volume>
+  <issue>3</issue>
+  <fpage>855</fpage>
+  <lpage>882</lpage>
+</bibl>
+
+<bibl id="B13">
+  <title><p>A Behavioral Model of Non-linear Peer Effects in Cognitive
+  Achievement</p></title>
+  <aug>
+    <au><snm>Alcalde</snm><fnm>P</fnm></au>
+  </aug>
+  <source>PhD thesis</source>
+  <publisher>University of Pennsylvania</publisher>
+  <pubdate>2013</pubdate>
+  <url>http://repository.upenn.edu/dissertations/AAI3565014</url>
+</bibl>
+
+<bibl id="B14">
+  <title><p>Agent-based simulation of innovation diffusion: a
+  review</p></title>
+  <aug>
+    <au><snm>Kiesling</snm><fnm>E</fnm></au>
+    <au><snm>G{\"u}nther</snm><fnm>M</fnm></au>
+    <au><snm>Stummer</snm><fnm>C</fnm></au>
+    <au><snm>Wakolbinger</snm><fnm>LM</fnm></au>
+  </aug>
+  <source>Central European Journal of Operations Research</source>
+  <publisher>Springer</publisher>
+  <pubdate>2012</pubdate>
+  <volume>20</volume>
+  <issue>2</issue>
+  <fpage>183</fpage>
+  <lpage>-230</lpage>
+</bibl>
+
+<bibl id="B15">
+  <title><p>Talk of the network: A complex systems look at the underlying
+  process of word-of-mouth</p></title>
+  <aug>
+    <au><snm>Goldenberg</snm><fnm>J</fnm></au>
+    <au><snm>Libai</snm><fnm>B</fnm></au>
+    <au><snm>Muller</snm><fnm>E</fnm></au>
+  </aug>
+  <source>Marketing Letters</source>
+  <publisher>Springer</publisher>
+  <pubdate>2001</pubdate>
+  <volume>12</volume>
+  <issue>3</issue>
+  <fpage>211</fpage>
+  <lpage>-223</lpage>
+</bibl>
+
+<bibl id="B16">
+  <title><p>An Individual-Based Model of Innovation Diffusion Mixing Social
+  Value and Individual Benefit</p></title>
+  <aug>
+    <au><snm>Deffuant</snm><fnm>G</fnm></au>
+    <au><snm>Huet</snm><fnm>S</fnm></au>
+    <au><snm>Amblard</snm><fnm>F</fnm></au>
+  </aug>
+  <source>American Journal of Sociology</source>
+  <publisher>JSTOR</publisher>
+  <pubdate>2005</pubdate>
+  <volume>110</volume>
+  <issue>4</issue>
+  <fpage>1041</fpage>
+  <lpage>-1069</lpage>
+</bibl>
+
+<bibl id="B17">
+  <title><p>Multilayer Networks</p></title>
+  <aug>
+    <au><snm>Arenas</snm><fnm>A</fnm></au>
+    <au><snm>BarthelemyY</snm><fnm>M</fnm></au>
+    <au><snm>Gleeson</snm><fnm>JP</fnm></au>
+    <au><snm>Moreno</snm><fnm>Y</fnm></au>
+    <au><snm>Porter</snm><fnm>MA</fnm></au>
+  </aug>
+  <source>Journal of Complex Networks</source>
+  <pubdate>2014</pubdate>
+  <volume>2</volume>
+  <fpage>203</fpage>
+  <lpage>-271</lpage>
+</bibl>
+
+<bibl id="B18">
+  <title><p>Identification of peer effects through social networks</p></title>
+  <aug>
+    <au><snm>Bramoulle</snm><fnm>Y</fnm></au>
+    <au><snm>Djebbari</snm><fnm>H</fnm></au>
+    <au><snm>Fortin</snm><fnm>B</fnm></au>
+  </aug>
+  <source>Journal of econometrics</source>
+  <publisher>Elsevier</publisher>
+  <pubdate>2009</pubdate>
+  <volume>150</volume>
+  <issue>1</issue>
+  <fpage>41</fpage>
+  <lpage>-55</lpage>
+</bibl>
+
+<bibl id="B19">
+  <title><p>Social networks and the identification of peer effects</p></title>
+  <aug>
+    <au><snm>Goldsmith Pinkham</snm><fnm>P</fnm></au>
+    <au><snm>Imbens</snm><fnm>GW</fnm></au>
+  </aug>
+  <source>Journal of Business \& Economic Statistics</source>
+  <publisher>Taylor \& Francis</publisher>
+  <pubdate>2013</pubdate>
+  <volume>31</volume>
+  <issue>3</issue>
+  <fpage>253</fpage>
+  <lpage>-264</lpage>
+</bibl>
+
+<bibl id="B20">
+  <title><p>Using technology to explore social networks and mechanisms
+  underlying peer effects in classrooms.</p></title>
+  <aug>
+    <au><snm>Guryan</snm><fnm>J</fnm></au>
+    <au><snm>Jacob</snm><fnm>B</fnm></au>
+    <au><snm>Klopfer</snm><fnm>E</fnm></au>
+    <au><snm>Groff</snm><fnm>J</fnm></au>
+  </aug>
+  <source>Developmental Psychology</source>
+  <publisher>American Psychological Association</publisher>
+  <pubdate>2008</pubdate>
+  <volume>44</volume>
+  <issue>2</issue>
+  <fpage>355</fpage>
+</bibl>
+
+<bibl id="B21">
+  <title><p>Characteristics of {C}hinese Rural Network: Evidence from Villages
+  in Central {C}hina</p></title>
+  <aug>
+    <au><snm>Xiong</snm><fnm>H</fnm></au>
+    <au><snm>Payne</snm><fnm>D</fnm></au>
+  </aug>
+  <source>Chinese Journal of Sociology</source>
+  <pubdate>2017</pubdate>
+  <volume>1</volume>
+  <issue>1</issue>
+  <fpage>74�97</fpage>
+</bibl>
+
+<bibl id="B22">
+  <title><p>Collective dynamics of 詓mall-world課etworks</p></title>
+  <aug>
+    <au><snm>Watts</snm><fnm>DJ</fnm></au>
+    <au><snm>Strogatz</snm><fnm>SH</fnm></au>
+  </aug>
+  <source>Nature</source>
+  <publisher>Nature Publishing Group</publisher>
+  <pubdate>1998</pubdate>
+  <volume>393</volume>
+  <issue>6684</issue>
+  <fpage>440</fpage>
+  <lpage>-442</lpage>
+</bibl>
+
+<bibl id="B23">
+  <title><p>On Random Graphs</p></title>
+  <aug>
+    <au><snm>Erd{\H o}s</snm><fnm>P</fnm></au>
+    <au><snm>R{\'e}nyi</snm><fnm>A</fnm></au>
+  </aug>
+  <source>Publicationes Mathematicae (Debrecen)</source>
+  <pubdate>1959</pubdate>
+  <volume>6</volume>
+  <fpage>290</fpage>
+  <lpage>297</lpage>
+</bibl>
+
+<bibl id="B24">
+  <title><p>The impact of network characteristics on the diffusion of
+  innovations</p></title>
+  <aug>
+    <au><snm>Peres</snm><fnm>R</fnm></au>
+  </aug>
+  <source>Physica A: Statistical Mechanics and its Applications</source>
+  <pubdate>2014</pubdate>
+  <volume>402</volume>
+  <issue>0</issue>
+  <fpage>330</fpage>
+  <lpage>343</lpage>
+</bibl>
+
+<bibl id="B25">
+  <title><p>Threshold models of collective behavior</p></title>
+  <aug>
+    <au><snm>Granovetter</snm><fnm>M</fnm></au>
+  </aug>
+  <source>American Journal of Sociology</source>
+  <pubdate>1978</pubdate>
+  <volume>83</volume>
+  <issue>6</issue>
+  <fpage>1420</fpage>
+</bibl>
+
+<bibl id="B26">
+  <title><p>Threshold-limited spreading in social networks with multiple
+  initiators</p></title>
+  <aug>
+    <au><snm>Singh</snm><fnm>P.</fnm></au>
+    <au><snm>Sreenivasan</snm><fnm>S.</fnm></au>
+    <au><snm>Szymanski</snm><fnm>B. K.</fnm></au>
+    <au><snm>Korniss</snm><fnm>G.</fnm></au>
+  </aug>
+  <source>Science Report</source>
+  <publisher>Macmillan Publishers Limited. All rights reserved</publisher>
+  <pubdate>2013</pubdate>
+  <volume>3</volume>
+</bibl>
+
+<bibl id="B27">
+  <title><p>Reducing the Complexity of an Agent-Based Local Heroin Market
+  Model</p></title>
+  <aug>
+    <au><snm>Heard</snm><fnm>D</fnm></au>
+    <au><snm>Bobashev</snm><fnm>GV</fnm></au>
+    <au><snm>Morris</snm><fnm>RJ</fnm></au>
+  </aug>
+  <source>PloS one</source>
+  <publisher>Public Library of Science</publisher>
+  <pubdate>2014</pubdate>
+  <volume>9</volume>
+  <issue>7</issue>
+  <fpage>e102263</fpage>
+</bibl>
+
+<bibl id="B28">
+  <title><p>Testing Statistical Hypotheses of Equivalence and
+  Noninferiority</p></title>
+  <aug>
+    <au><snm>Wellek</snm><fnm>S</fnm></au>
+  </aug>
+  <publisher>CRC Press</publisher>
+  <edition>2</edition>
+  <pubdate>2010</pubdate>
+</bibl>
+
+<bibl id="B29">
+  <title><p>Understanding Mechanisms Underlying Peer Effects: Evidence From a
+  Field Experiment on Financial Decisions</p></title>
+  <aug>
+    <au><snm>Bursztyn</snm><fnm>L</fnm></au>
+    <au><snm>Ederer</snm><fnm>F</fnm></au>
+    <au><snm>Ferman</snm><fnm>B</fnm></au>
+    <au><snm>Yuchtman</snm><fnm>N</fnm></au>
+  </aug>
+  <source>Econometrica</source>
+  <pubdate>2014</pubdate>
+  <volume>82</volume>
+  <issue>4</issue>
+  <fpage>1273�1301</fpage>
+</bibl>
+
+<bibl id="B30">
+  <title><p>Simulating Market Dynamics: Interactions between Consumer
+  Psychology and Social Networks</p></title>
+  <aug>
+    <au><snm>Janssen</snm><fnm>MA</fnm></au>
+    <au><snm>Jager</snm><fnm>W</fnm></au>
+  </aug>
+  <source>Artificial Life</source>
+  <pubdate>2003</pubdate>
+  <volume>9</volume>
+  <issue>4</issue>
+  <fpage>343</fpage>
+  <lpage>356</lpage>
+</bibl>
+
+<bibl id="B31">
+  <title><p>Exploring associations between micro-level models of innovation
+  diffusion and emerging macro-level adoption patterns</p></title>
+  <aug>
+    <au><snm>Laciana</snm><fnm>CE</fnm></au>
+    <au><snm>Rovere</snm><fnm>SL</fnm></au>
+    <au><snm>Podest�</snm><fnm>GP</fnm></au>
+  </aug>
+  <source>Physica A: Statistical Mechanics and its Applications</source>
+  <pubdate>2013</pubdate>
+  <volume>392</volume>
+  <issue>8</issue>
+  <fpage>1873</fpage>
+  <lpage>1884</lpage>
+</bibl>
+
+</refgrp>
+} % end of \BMCxmlcomment
